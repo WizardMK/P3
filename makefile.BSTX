@@ -1,0 +1,2 @@
+BSTX.out: BSTX.h BSTX.cpp
+	g++ -Wall -ansi -g -o BSTX.out BSTXtest.cpp
